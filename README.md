@@ -3,6 +3,8 @@
 Instructions: Given a sentence as input, calculate and output the average word length of that sentence.
 To calculate the average word length, you need to divide the sum of all word lengths by the number of words in the sentence.
 
+Python Data Structures - project 2
+
 Sample Input:
 this is some text
 
